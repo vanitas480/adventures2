@@ -1,3 +1,12 @@
+
+# Own Text
+Hi world!
+I'm a newbe on github. I try to work on a web page. I have some experience in content management, so a little knowledge about css and html, but that it is basicly. Now, I'm trying to help a friend in getting to know her web page and therefore I follow her steps.
+So, as long as I'm not familiar with what I do, I leave the content of the original theme in. I hope, thats not a problem.
+Have a lovely day!
+Ciao vanitas
+
+
 # Prologue - Jekyll Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
